@@ -1,0 +1,53 @@
+const flashcards = [
+    { front: "Vad är 5 + 3?", back: "8" },
+    { front: "Vad är huvudstaden i Sverige?", back: "Stockholm" },
+    { front: "Vad är den kemiska formeln för vatten?", back: "H2O" },
+    // Lägg till fler kort här vid behov
+];
+
+let currentIndex = 0;
+let showingFront = true;
+
+const cardContent = document.getElementById("card-content");
+
+function showCard(index) {
+    const card = flashcards[index];
+    cardContent.innerHTML = showingFront ? card.front : card.back;
+}
+
+function flipCard() {
+    showingFront = !showingFront;
+    showCard(currentIndex);
+}
+
+function nextCard() {
+    currentIndex = (currentIndex + 1) % flashcards.length;
+    showingFront = true;
+    showCard(currentIndex);
+}
+
+function prevCard() {
+    currentIndex = (currentIndex - 1 + flashcards.length) % flashcards.length;
+    showingFront = true;
+    showCard(currentIndex);
+}
+
+document.getElementById("flip").addEventListener("click", flipCard);
+document.getElementById("next").addEventListener("click", nextCard);
+document.getElementById("prev").addEventListener("click", prevCard);
+
+function addCard(event) {
+    event.preventDefault();
+    const front = document.getElementById("front").value;
+    const back = document.getElementById("back").value;
+
+    flashcards.push({ front, back });
+
+    document.getElementById("add-card-form").reset();
+    alert("Flashcard tillagt!");
+}
+
+document.getElementById("add-card-form").addEventListener("submit", addCard);
+
+// Visa första kortet initialt
+showCard(currentIndex);
