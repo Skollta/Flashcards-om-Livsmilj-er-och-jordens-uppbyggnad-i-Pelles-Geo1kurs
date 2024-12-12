@@ -104,21 +104,15 @@ Vad är en seismograf?;Ett instrument som mäter jordbävningar
 Vad är ett jordskalv?;En plötslig rörelse i jordskorpan
 Vad är ett efterskalv?;Mindre jordbävningar som följer efter en större
 Vad är en förkastning?;En spricka i jordskorpan där berggrunden förskjutits
-Vad är en sprickdal?;En dal som bildats genom att jordskorpan spruckit
-Vad är en horst?;Ett upphöjt parti mellan två förkastningar
 Vad är en gravsänka?;En nedsänkt del mellan två förkastningar
-Vad är en grundfjällssköld?;Ett mycket gammalt och stabilt område i jordskorpan
 Vad är en bergskedjeveckning?;När jordskorpan veckas vid plattkollisioner
 Vad är en divergerande plattgräns?;En gräns där plattor rör sig från varandra
 Vad är en konvergerande plattgräns?;En gräns där plattor rör sig mot varandra
 Vad är en transformförkastning?;En gräns där plattor glider förbi varandra
-Vad är ett tektoniskt fönster?;Ett område där äldre berggrund blottläggs genom erosion
-Vad är en sköl?;En krosszon i berggrunden
 Vad är en diabasgång?;En gång av stelnad magma som trängt upp genom sprickor
 Vad är en pegmatit?;En grovkornig magmatisk bergart
 Vad är en gnejs?;En metamorf bergart bildad under högt tryck och temperatur
 Vad innebär den plattektoniska teorin?;Den förklarar kontinentaldriften genom konvektionsströmmar i manteln som driver plattornas rörelse.
-Vilken period kallas 'nytt liv' i Fanerozoikum?;Kenozoikum, från 66 miljoner år sedan till idag.
 Vad händer vid en konvergenszon mellan två kontinentplattor?;Plattorna kolliderar och bildar bergskedjor, som Himalaya.
 Hur bildas en spridningszon?;När två litosfärplattor glider isär bildas ny oceanbotten vid mittoceana ryggar.
 Vilken roll spelar radioaktivitet i plattornas rörelse?;Radioaktivt alstrad värme i jordens inre driver konvektionsströmmar i manteln.
