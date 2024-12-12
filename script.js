@@ -9,10 +9,11 @@ Vilka problem hotar biosfären?;Minskad biologisk mångfald, skogsskövling och 
 Vad är globalisering?;En process där livsmiljöer påverkas på likartade sätt över hela världen.
 Vilka drivkrafter ligger bakom globalisering?;Ekonomiska intressen och teknologiska framsteg.
 Hur har globalisering förändrat handeln?;Den har gjort det enklare att handla över gränser och ökat den globala handeln.
-Vilka är några av nackdelarna med globalisering?;Kan ersätta lokala traditioner och matvanor, kan leda till bevarandet av orättvisor, Farlig produktion kan flyttas till länder med bristfällig lagstiftning
+Vilka är några av nackdelarna med globalisering?;Kan ersätta lokala traditioner och matvanor, kan leda till bevarandet av orättvisor, farlig produktion kan flyttas till länder med bristfällig lagstiftning
 ökad förbrukning av icke-förnybara resurser och ökade miljöproblem 
 Minskad lokal konkurrens och att företag kan få för stort politiskt inflytande.
 Vad är en positiv effekt av globalisering för utvecklingsländer?;De kan ta del av ny teknik och kunskap.
+Vilka är några av de positiva sakerna med globalisering;–	kunskap och teknik sprids, förståelse för olika livsmiljöer, samarbete demokratiska värden kan spridas, ökad handel och fler arbeten, bättre livsvillkor, ökad konkurrens gör att produktion effektiviseras
 Vad är ett handelsområde?;Ett samarbete mellan länder för att underlätta handel inom området.
 Vad är WTO:s uppgift?;Att underlätta global handel och ge stöd till fattiga länder.
 Varför är globalisering viktig för ekonomi?;Den ökar ekonomiskt samarbete och integrerar världens ekonomier.
